@@ -1,0 +1,20 @@
+* {
+  
+  background-color: rgba(245, 245, 245, 0.267);
+}
+
+input {
+  width: 100%;
+}
+.item-container {
+  text-align: left;
+}
+.ank {
+  text-align: left;
+}
+.kg-row {
+  margin: 10px 5px;
+}
+.kg-button {
+  min-width: 80px;
+}
